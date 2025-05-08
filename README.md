@@ -5,6 +5,6 @@ This repository organizes all code and results for my master's thesis on humanoi
 ##  Repositories
 
 -  [Simulation Training Environment (Isaac Gym)](https://github.com/peterwu1007/thormang3-ball-balancing-PPO)
--  [Dual-Actor PPO Implementation](https://github.com/peterwu1007/dual_actor_ppo)
+-  [Dual-Actor PPO Implementation](https://github.com/peterwu1007/Dual-Actor-PPO)
 -  [Real-World Deployment Code (ROS + Inference)](https://github.com/peterwu1007/sim2real)
 
